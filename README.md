@@ -23,3 +23,10 @@ Para garantizar que estás bajando la versión oficial y más reciente (v1.0.2),
 * **Privacidad y Seguridad:** Sistema de protección de identidad y modo incógnito integrado.
 * **Experiencia de Chat Mejorada:** Envío fluido de videos y personalización de fondos de pantalla.
 * **Módulo de Seguridad Preventiva:** Escáner de entorno al arrancar para proteger tus datos.
+## 📬 Contacto y Soporte
+
+Si eres desarrollador, creador de contenido o encontraste algún error, puedes contactarme en:
+
+📧 **emerald.red.social@gmail.com** 
+
+---
