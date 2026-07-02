@@ -12,7 +12,7 @@ Los primeros **1.000 usuarios** que se registren disfrutarán automáticamente d
 * Gestión de favoritos sin límites.
 
 ## 📥 ¿Cómo descargar la APK?
-Para garantizar que estás bajando la versión oficial y más reciente (v1.0.2), descarga el archivo directamente desde nuestra sección de lanzamientos:
+Para garantizar que estás bajando la versión oficial y más reciente (v1.0.3), descarga el archivo directamente desde nuestra sección de lanzamientos:
 
 👉 **[DESCARGAR EMERALD APK AQUÍ(https://github.com/Sanlobo3-glitch/emerald-distribution/releases)**]
 
