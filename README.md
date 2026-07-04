@@ -5,7 +5,7 @@
 Nuestra aplicación está totalmente optimizada para ofrecerte una experiencia fluida, segura y sin interrupciones, con soporte completo para Android 14 (SDK 34).
 
 ## 🎁 ¡Promoción Especial de Lanzamiento!
-Los primeros **1.000 usuarios** que se registren disfrutarán automáticamente de **30 días de la experiencia Pro totalmente GRATIS**. 
+Los primeros **1.000 usuarios** que se registren disfrutarán automáticamente de **07 días de la experiencia Pro totalmente GRATIS**. 
 * Navegación ilimitada.
 * Descubre quién te ha dado "Me Gusta".
 * Modo incógnito nativo.
